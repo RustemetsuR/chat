@@ -1,0 +1,18 @@
+.message-box {
+    border: 1px solid black;
+    padding: 25px;
+    position: relative;
+}
+
+.dates {
+    position: absolute;
+    right: 10px
+}
+
+.time {
+    bottom: 50px;
+}
+
+.date {
+    bottom: 10px;
+}
